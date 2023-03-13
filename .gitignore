@@ -1,0 +1,11 @@
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+outputs/
+mmlab_models/
+work_dirs/
+data
+relu_spec_files/
+.idea/
+*.py[cod]
